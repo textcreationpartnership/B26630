@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two addresses from the Governour, Council, and Convention of the Massachusetts Colony assembled at Boston in New-England Presented to His Majesty at Hampton-Court, August 7. 1689. By Sir Henry Ashurst Baronet.</title>
+            <author>Massachusetts. Governor (1689-1692 : Bradstreet).</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26630</idno><idno type="EEBO-CITATION">99828462</idno>
+  <idno type="VID">207683</idno>
+  <idno type="EEBO-PROQUEST">2248493121</idno>
+  
+            <idno type="STC">Wing M1025A</idno>
+            <idno type="PROQUEST">99828462</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828462e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1930:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two addresses from the Governour, Council, and Convention of the Massachusetts Colony assembled at Boston in New-England Presented to His Majesty at Hampton-Court, August 7. 1689. By Sir Henry Ashurst Baronet.</title>
+                  <author>Massachusetts. Governor (1689-1692 : Bradstreet).</author>
+                  <author>Ashurst, Henry, Sir, 1645-1711. aut</author>
+                  <author>Massachusetts.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, in the Old-Bailey,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The two addresses follow the introductory remarks, each signed: S. Bradstreet.</note>
+                  <note>Caption title on p. 2 reads in part: ".. The humble address of the President and Councel for the safety of the people, and conservation of the peace." and is dated:  May 20. 1689.</note>
+                  <note>Address on p. 4, dated June 6. 1689, expresses gratitude to King William and Queen Mary "for the rescue and deliverance of the English nation from the miseries of popery and arbitrary government".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in Glasgow University Library, Glasgow, Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1689-1694 : William and Mary) --  Early works to 1800.</term>
+               <term type="geographic_name">Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207683:1"/>
+            <head>TWO ADDRESSES FROM THE Governour, Council, and Convention OF THE <hi>Massachusets Colony</hi> Assembled at <hi>BOSTON</hi> in <hi>New-England.</hi> Presented to His Majesty at <hi>Hampton-Court, August</hi> 7. 1689.</head>
+            <byline>By Sir <hi>HENRY ASHƲRST</hi> Baronet.</byline>
+            <p>THE People in <hi>New-England</hi> having groaned under the Violation of their Charters and most undoubted Rights, and the Illegal and A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bi<g ref="char:EOLhyphen"/>tary Government imposed upon them by the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te King, in the per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Sir <hi>Edmond Andross,</hi> and his Creatures, for about Three Years.</p>
+            <p>Hearing what was done in <hi>England,</hi> and how the then Prince of <hi>Orange,</hi> in Conjunction with the Nobility and Gentry, had most gloriously rescued them<g ref="char:EOLhyphen"/>selves, their Religion, and Country from the Inundation of Popery and Slavery.</p>
+            <p>They in imitation of so great an Example, upon the F<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eenth of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pril</hi>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, as one Man, rose in Arms, and seized the said Sir <hi>E<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d And<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their most notoriou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oppressors, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in safe Cu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting forth in Print a Declaration of the Reasons necessitating them to this way of proceeding.</p>
+            <p>And for the Safety of the People, and Conservation of the Peace, chose a President and Council, who on the 20th of <hi>May</hi> 1689, being Assembled at <hi>Boston,</hi> drew up, and subscribed a very Loyal Congratulatory Address to Their Majesties.</p>
+            <p>After which they setled the Government upon their Charter-Foundations, Electing their late Governour, a Council, and Magistrates; and they immedi<g ref="char:EOLhyphen"/>diately summoned a Convention of the Representatives of the People to <hi>Boston,</hi> where being Assembled, they on the 6th of <hi>June</hi> 1689, unanimously drew up, and subscribed a Second Address to Their Majesties.</p>
+            <p>As also an Instrument impowering Sir <hi>Henry Ashurst</hi> Baronet, and a Mem<g ref="char:EOLhyphen"/>ber of the Honourable House of Commons, to be their Representative to Their Majesties, in all Matters concerning the Colony of the <hi>Massachusets:</hi> Withal, desiring Sir <hi>Henry</hi> to present the said Addresses to Their Majesties, in their Names and behalf, in all humble and dutiful manner.</p>
+            <p>Which said Addresses, Powers, and Instructions arriving here last week, on <hi>Wednesday</hi> the 7th of this Instant <hi>August,</hi> Sir <hi>Henry</hi> went to <hi>Hampton Court;</hi> where being by that Great and Steady Patron of the Laws, Religion, and Li<g ref="char:EOLhyphen"/>berties of his Country, the Right Honourable <hi>Henry</hi> Lord <hi>Delamere,</hi> introdu<g ref="char:EOLhyphen"/>ced into the Royal Presence, Sir <hi>Henry</hi> acquainted His Majesty with the Happy Occasion of his present Attendance, the State and Condition of His Subjects in <hi>New-England,</hi> and of the Powers they had entrusted and honour<g ref="char:EOLhyphen"/>ed him with; at the same time presenting the said Addresses hereafter follow<g ref="char:EOLhyphen"/>ing; which, at His Majesty's Command he distinctly read. After which His Majesty accepted them very graciously, and was pleased to express him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf with great kindness to the said People, assuring Sir <hi>Henry,</hi> That he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>indly accepted their Tenders of Loyalty and Duty, and would take Them nd their humble Requests into his particular Care, <hi>&amp;c.</hi>
+            </p>
+            <div type="address">
+               <pb n="2" facs="tcp:207683:2"/>
+               <head>TO <hi>The King and Queens</hi> Most Excellent Majesties. The Humble ADDRESS OF THE <hi>President and Councel for the Safety of the People, and Conservation of the Peace.</hi>
+               </head>
+               <opener>
+                  <salute>Dread Majesties,</salute>
+               </opener>
+               <p>THE late Glorious Enterprize atchieved by your Royal Highness through the Blessing of Heaven, attended with such Happy Suc<g ref="char:EOLhyphen"/>cess for the Relief and Deliveranc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Distressed Kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gland, Scotland,</hi> and <hi>Ireland</hi> from the Miseries of Popery and Slavery, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n coming in upon them with a seeming irresistible Power, hath not on<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fill'd the Hearts of all the good Subjects of those three Kingdoms, but also of the Plantations depending thereupon, with unspeakable Joy, and will doubt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> In<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ence all the Protestant Kingdoms and places of <hi>Europe,</hi> and Erect an <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rlasting Monument of Praise to your Royal Name; The Gladsome Ty<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whereof hath reach'd these <hi>American Plantations,</hi> to their no small Re<g ref="char:EOLhyphen"/>joycing, which your poor distressed Subjects of this Land hold themselves obliged to acknowledge with all hearty Thankfulness: First, to Almighty God, the Soveraign Ruler of the World; And next, unto Your Royal Self, as an Instrument spirited by him to so Heroick and Hazardous an Under<g ref="char:EOLhyphen"/>taking. Your Three several Princely Delarations put forth on that Occasion, Encouraging the <hi>English</hi> Nation to cast off the Yoak of a Tyrannical and Arbitrary Power, which at that time they were held under, have occurred to the View and Consideration of the People in this Country, being them<g ref="char:EOLhyphen"/>selves under alike (if not worse) Evil and Unhappy Circumstances with their Brethren of <hi>England.</hi> First, by unrighteously depriving them of their Charter, Government, and Priviledges, without any Hearing or Tryal, and under utter Impossibilities of having Notice of any Writ served upon them; And then followed with the Exercise of an Illegal and Arbitrary Power over them, which had almost ruined a late Flourishing Country, and was become very Grievous and Intolerable, besides the growing Miseries, and daily Fears of a Total Subversion by Enemies at Home, and Invasion by Foreign Force. The People thereby excited to imitate so Noble and Heroick an Example, being strongly and unanimously spirited to intend their own Safeguard and Defence, resolved to seize upon and secure some of the Principal Persons concerned, and most active in the ill Management of the Illegal and A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bi<g ref="char:EOLhyphen"/>trary Government set over them by Commission. Accordingly, upon the Eighteenth Day of <hi>April</hi> last past, arose as one Man, seized upon Sir <hi>Edmond Andross</hi> the late Governour, and other of the Evil Instruments, and have secured them for what Justice, Order from Your Majesties shall direct, ex<g ref="char:EOLhyphen"/>hibiting and publishing a Declaration, setting forth some of the General Grounds and Reasons provoking them to such an Action; which, though <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormed and entred upon under such disadvantages, yet by the good Prov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dence
+<pb n="3" facs="tcp:207683:2"/> of God was so over-ruled, by the interposing and prudence of so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gentlemen upon the place, that the thing was effected without the lest Blood<g ref="char:EOLhyphen"/>shed or plunder, for which we desire to pay our acknowledgment of praise unto the Soveraign ruler of all things.</p>
+               <p>The Declaration of the People is herewith emitted, to be humbly present<g ref="char:EOLhyphen"/>ed unto your Majesties, the Demonstration and Proofs of the several Article<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Charges contained in the said Declaration, with other Informations not inferiour, will be preparing to be offered in the season thereof.</p>
+               <p>And now Dread Majesties, having given this brief Narrative of the pre<g ref="char:EOLhyphen"/>sent Circumstances of things amongst us, hoping for your Majesties Favourable Interpretation, and Gracious Resentment of this people and of the Action; bearing such Conformity to Methods which the English Nation hath been driven to take for their Deliverance.</p>
+               <p>We prostrate at Your Majesties Feet, perswading our selves that we shall not be forgotten nor left without our share in the Universal Restau<g ref="char:EOLhyphen"/>ration of Charters and English Liberties, which the whole Nation is at this day made happy withal, and for which we most humbly Supplicate, that under the shadow of Your Imperial Crown, we may again be made to flourish in the enjoyment of our Ancient Rights and Priviledges, being the sole encouragement unto our Fathers and Predecessors, at their own great Cost and Expence to settle this Collony, to the Enlargement of the English Dominion, and so much for the Glory of that Crown, we heartily Congratu<g ref="char:EOLhyphen"/>late Your Majesties Happy Accession to the Throne,</p>
+               <closer>
+                  <signed>
+                     <hi>Praying for the Long and Prosperous Reign of Your Royal Majesties.</hi> Your MAJESTIS most Loyal and Dutiful Subjects. <hi>S. BRADSTREET.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Boston</hi> in <hi>New-England,</hi>
+                     <date>
+                        <hi>May</hi> 20. 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="address">
+               <pb n="4" facs="tcp:207683:3"/>
+               <head>
+                  <hi>To the KING and QUEEN's Most Excellent Majesties.</hi> The Humble Address and Petition of the Governour, Council, and Convention of Representatives of the People of Your Majesties Collony of the <hi>Massachusets,</hi> in <hi>New-England.</hi>
+               </head>
+               <opener>
+                  <salute>May it please Your Majesties,</salute>
+               </opener>
+               <p>WE your Majesties poor and distressed Subjects of this Collony, late un<g ref="char:EOLhyphen"/>der the deep sence and burthen of sore Aggrievances, by an Illegal and Arbitrary Government set over us, were not a little rejoyced at the first In<g ref="char:EOLhyphen"/>telligence of the Heroic and Generous Undertaking of your then Royal High<g ref="char:EOLhyphen"/>ness, being Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inely inspired, so magnanimously to hazard your Royal Person for the Rescue and Deliverance of the <hi>English</hi> Nation from the Miseries of Po<g ref="char:EOLhyphen"/>pery and Arbitrary Government: Which Undertaking through the Wonder-working Providence of <hi>Sion</hi>'s Saviour, has been so happily succeeded, as to bring in a gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ral Restoration of Charters, and <hi>English</hi> Liberties, calling for all hearty Acknowledgments of Praise and Thanksgiving to Almighty God, and next to your S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cred Majesties, and will Eternize your Names in the Hearts of all true <hi>English-men.</hi>
+               </p>
+               <p>Your Maje<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies happy Accession to the Royal Throne, was most joyfully Congratulated by your Subjects of this Collony, and the Proclamations thereof here performed on the 29th of <hi>May</hi> last past, with all the Decency and Solem<g ref="char:EOLhyphen"/>nity the place is capable of affording, and all imaginable Expressions of Joy. A brief Narrative of the Occurrences and Revolution happening among us, is set forth in the Add<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess of the President and Council, bearing Date the 20th day of <hi>May</hi> last; together with a Declaration of the People forwarded to be humbly prese<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted unto your Majesties. Since which Revolution no Orders arriving from your Majesties, relating to the Governing of this People, having waited several Weeks in expectation thereof; and finding an absolute neces<g ref="char:EOLhyphen"/>sity of Civil Government, the People generally manifested their earnest De<g ref="char:EOLhyphen"/>sires and Importunity once and again, That the Governor, Deputy-Govern<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and Assist<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hosen <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d sworn in <hi>May</hi> 1686, according to Charter and C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, would assu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ernment.</p>
+               <p>Upon consideration whereof, things being so circumstanced at that time, it was by them thought not safe or agreeable to our Charter Constitution, to fall under the full Exercise of Charter-Government; but the said Governou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Deputy-Governour, and Assistants then resident in the Collony, did cons<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to accept the Present Care and Government of this People, according to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Rules of the Charter, for the conservation of the Peace and Common Safe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y; and the putting forth further Acts of Authority upon Emergencies, unt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by direction from <hi>England</hi> there should be an orderly Settlement, which we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope will restore us to the full Exercise thereof as formerly; notwithstandi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g we have for sometime been most unrighteously and injuriously deprived o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</p>
+               <p>That Royal Charter being the sole Inducement and Encouragem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt unto our Fathers and Predecessors to come over into this Wilderness, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to plant and settle the same at their own Cost and Charge: Which throug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Bles<g ref="char:EOLhyphen"/>sing of God was a flourishing Plantation, enlarging your Majesties <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominion, to the Glory of the <hi>English</hi> Crown; tho' since the alteration of that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overnment, greatly impoverished by the Oppressions and Hardships put upon <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>We in all humility prostrate at the Feet of your Royal Majesti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and suppli<g ref="char:EOLhyphen"/>cate your Majesties Grace in a favourable Interpretation and Resentment of the late Action of this People. And that we also, according to our undoubted Right, may be again fixed and setled in a full Confirmation of our Charter, Rights, and Priviledges; whereby, through the Blessing of God, and benign Influences of your Sacred Majesties, we hope to be an happy People.</p>
+               <closer>
+                  <signed>
+                     <hi>Imploring</hi> Heaven's Blessings upon the Heads and Hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts of your Roya<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Majesties, that you may have a long and prosperous Reign on Earth, and be translated to an Eternal Crown of Glory. <hi>Your Majesties most Loyal and Dutiful Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cts,</hi> S. Bradstreet. <hi>In the Name and behalf of the Council and Convention.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Boston</hi> in <hi>New-England,</hi>
+                     <date>
+                        <hi>June</hi> 6. 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Bail<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
